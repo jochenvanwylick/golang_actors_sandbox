@@ -32,11 +32,11 @@ go test ./...
 ## Architecture
 
 The project includes Architecture Decision Records (ADRs) documenting key design decisions:
-- [ADR-001: Idiomatic Go Guidelines](ADR-001-idiomatic-go.md)
-- [ADR-002: Hybrid Architecture](ADR-002-hybrid-architecture.md)
-- [ADR-003: DAS Integration](ADR-003-das-integration.md)
-- [ADR-004: Actor Dependency Types](ADR-004-actor-dependency-types.md)
-- [ADR-005: Functional Options Pattern](ADR-005-functional-options-pattern.md)
+- [ADR-001: Idiomatic Go Guidelines](./ADR/ADR-001-idiomatic-go.md)
+- [ADR-002: Hybrid Architecture](./ADR/ADR-002-hybrid-architecture.md)
+- [ADR-003: DAS Integration](./ADR/ADR-003-das-integration.md)
+- [ADR-004: Actor Dependency Types](./ADR/ADR-004-actor-dependency-types.md)
+- [ADR-005: Functional Options Pattern](./ADR/ADR-005-functional-options-pattern.md)
 
 ## Dependencies
 
